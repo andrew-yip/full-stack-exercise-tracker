@@ -60,7 +60,6 @@ export default class CreateExercise extends Component {
         }
 
         console.log(exercise);
-
         window.location = '/';
     }
 
