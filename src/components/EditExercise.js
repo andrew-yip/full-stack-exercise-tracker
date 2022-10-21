@@ -4,7 +4,7 @@ export default class EditExercise extends Component {
     render() {
         return (
             <div>
-                <p>You are on the EditExercise component</p>
+                <p>EditExercise component</p>
             </div>
         )
     }
